@@ -33,3 +33,8 @@ Then array_sum function is called which will return sum of array that we receive
 6) If 'combination' is not in the 'combinations' array we push it in 'combinations' array and push first index value from iteration to 'result' array.
 7) After point 6. we check if that was last iteration, if true push second index value to 'result' array and push string from result to 'answer' array where we store valid combination.
 8) When iteration's done we check for the longest strings index from 'answer' array and return its value from function. 
+
+
+# **Possible improvements:**
+
+The Hardest part of these task was to create function longestSubstr and spending more time on it I would be able shorten code and make it more efficient.
