@@ -14,7 +14,7 @@ If true then index number is saved in 'answer' array, if false loop proceeds to 
 6) When iteration's done function returns last valid value from 'answer' array.  
 
 
-###### **class SummationService**
+###### class SummationService
 
 1) When class SummationService is initialized, class SummationService is expecting array of any integers as its properties value.
 2) Class has one function sum() which accepts 2 integers 'a' and 'b' which will be used as indexes (from, to) in sum() function. 
@@ -23,7 +23,7 @@ If true then index number is saved in 'answer' array, if false loop proceeds to 
 
 
 
-###### **longestSubstr**
+###### longestSubstr():
 
 1) Function longestSubstr() converts string to array 'splitString'.
 2) Function longestSubstr() creates 3 empty array 'combination' (where unique combination will be stored), 'result' (valid result will be stored), 'answer' (where all valid results will be stored).
